@@ -38,7 +38,7 @@ Grafische Nahbereichsabfrage über die Adresse: [https://www.salzburgnetz.at/str
 
 **Kärnten Netz (KNG) (AT007000)**
 
-**Grafische Nahbereichsabfrage über die Adresse:** [**https://kaerntennetz.at/erneuerbare-energiegemeinschaften-eeg.htm**](https://kaerntennetz.at/erneuerbare-energiegemeinschaften-eeg.htm)
+Grafische Nahbereichsabfrage über die Adresse: [https://kaerntennetz.at/erneuerbare-energiegemeinschaften-eeg.htm](https://kaerntennetz.at/erneuerbare-energiegemeinschaften-eeg.htm)
 
 **Energie Klagenfurt (AT007100)**
 
