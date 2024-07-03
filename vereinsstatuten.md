@@ -1,10 +1,6 @@
----
-description: 7Energy - Bürgerenergiegemeinschaft für erneuerbaren Strom
----
-
 # Vereinsstatuten
 
-### _§ 1: Name, Sitz und Tätigkeitsbereich_
+#### _§ 1: Name, Sitz und Tätigkeitsbereich_ <a href="#id-1-name-sitz-und-tatigkeitsbereich" id="id-1-name-sitz-und-tatigkeitsbereich"></a>
 
 (1) Der Verein führt den Namen „7Energy – Bürgerenergiegemeinschaft für erneuerbaren Strom“, kurz: „7Energy – BEG“.
 
@@ -12,11 +8,11 @@ description: 7Energy - Bürgerenergiegemeinschaft für erneuerbaren Strom
 
 (3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
-### _§ 2: Zweck_
+#### _§ 2: Zweck_ <a href="#id-2-zweck" id="id-2-zweck"></a>
 
 Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Rechtspersönlichkeit zur Gründung einer Bürgerenergiegemeinschaft. Nachdem die rechtliche Grundlage zur Gründung von Bürgerenergiegemeinschaften mit dem Beschluss des Erneuerbaren-Ausbau-Gesetzespakets (Regelungen für Energiegemeinschaften sind im Erneuerbaren-Ausbau-Gesetz per se, sowie im adaptierten Elektrizitätswirtschafts- und Organisationsgesetz festgeschrieben) geschaffen wurde, dient die Gründung dieses Vereins als Basis zur praktischen Umsetzung einer Bürgerenergiegemeinschaft. Ziel dieser Bürgerenergiegemeinschaft ist es, erneuerbar erzeugten Strom mit dem Verein und unter den Mitgliedern des Vereins zu teilen, sodass ein positiver Beitrag zur Energiewende geleistet und die Energieunabhängigkeit erhöht werden kann. Der Hauptzweck der Bürgerenergiegemeinschaft liegt nicht im finanziellen Gewinn (wie rechtlich im ElWOG §16b (2) festgeschrieben), sondern soll seinen Mitgliedern ökologische und sozialgemeinschaftliche Vorteile bringen.
 
-### _§ 3: Mittel zur Erreichung des Vereinszwecks_
+#### _§ 3: Mittel zur Erreichung des Vereinszwecks_ <a href="#id-3-mittel-zur-erreichung-des-vereinszwecks" id="id-3-mittel-zur-erreichung-des-vereinszwecks"></a>
 
 (1) Der Vereinszweck soll durch die in den Absätzen 2 und 3 angeführten ideellen und materiellen Mittel erreicht werden.
 
@@ -37,13 +33,13 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 * Servicegebühren
 * Stromhandel
 
-### _§ 4: Arten der Mitgliedschaft_
+#### _§ 4: Arten der Mitgliedschaft_ <a href="#id-4-arten-der-mitgliedschaft" id="id-4-arten-der-mitgliedschaft"></a>
 
 (1) Die Mitglieder eines Vereins gliedern sich in ordentliche, fördernde und Ehrenmitglieder.
 
 (2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördernde Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein ernannt werden.
 
-### _§ 5: Mitglieder und Erwerb der Mitgliedschaft_
+#### _§ 5: Mitglieder und Erwerb der Mitgliedschaft_ <a href="#id-5-mitglieder-und-erwerb-der-mitgliedschaft" id="id-5-mitglieder-und-erwerb-der-mitgliedschaft"></a>
 
 (1) Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 
@@ -51,7 +47,7 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 (3) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
 
-### _§ 6: Beendigung der Mitgliedschaft_
+#### _§ 6: Beendigung der Mitgliedschaft_ <a href="#id-6-beendigung-der-mitgliedschaft" id="id-6-beendigung-der-mitgliedschaft"></a>
 
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
 
@@ -65,7 +61,7 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 (6) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
 
-### _§ 7: Rechte und Pflichten der Mitglieder_
+#### _§ 7: Rechte und Pflichten der Mitglieder_ <a href="#id-7-rechte-und-pflichten-der-mitglieder" id="id-7-rechte-und-pflichten-der-mitglieder"></a>
 
 (1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht steht nur den ordentlichen und den Ehrenmitgliedern zu.
 
@@ -81,11 +77,11 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 (7) Die in der Stromabrechnung eingebundenen ordentlichen Mitglieder sind zur pünktlichen Zahlung der Abrechnungsbeträge gemäß Energieverbrauch verpflichtet. Sollte ein ordentliches Mitglied aus dem Verein ausscheiden, sind bis zur Umstellung der Stromabrechnung über die Energiegemeinschaft weiterhin alle Abrechnungsbeträge gemäß Energieverbrach zu bezahlen.
 
-### _§ 8: Vereinsorgane_
+#### _§ 8: Vereinsorgane_ <a href="#id-8-vereinsorgane" id="id-8-vereinsorgane"></a>
 
 Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§§ 11 bis 13), die Rechnungsprüfer (§ 14) und das Schiedsgericht (§ 15).
 
-### _§ 9: Generalversammlung_
+#### _§ 9: Generalversammlung_ <a href="#id-9-generalversammlung" id="id-9-generalversammlung"></a>
 
 (1) Die Generalversammlung ist die „Mitgliederversammlung“ im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet alle zwei Jahre statt.
 
@@ -111,7 +107,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (9) Abstimmungen erfolgen generell offen, eine geheime Abstimmung kann beantragt werden. Personenwahlen haben geheim zu erfolgen. Teilnehmende per Videokonferenz können nur an offenen Abstimmungen teilnehmen, außer eine geheime und sichere Stimmabgabe wird anderweitig ermöglicht.
 
-### _§ 10: Aufgaben der Generalversammlung_
+#### _§ 10: Aufgaben der Generalversammlung_ <a href="#id-10-aufgaben-der-generalversammlung" id="id-10-aufgaben-der-generalversammlung"></a>
 
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
@@ -139,7 +135,7 @@ fördernde Mitglieder;
 
 (10) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
-### _§ 11: Vorstand_
+#### _§ 11: Vorstand_ <a href="#id-11-vorstand" id="id-11-vorstand"></a>
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Zusätzlich können auch Nachrücker für den Vorstand gewählt werden.
 
@@ -159,7 +155,7 @@ fördernde Mitglieder;
 
 (9) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw. Kooptierung (Abs. 2) eines Nachfolgers wirksam.
 
-### _§ 12: Aufgaben des Vorstands_
+#### _§ 12: Aufgaben des Vorstands_ <a href="#id-12-aufgaben-des-vorstands" id="id-12-aufgaben-des-vorstands"></a>
 
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
 
@@ -177,7 +173,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
-### _§ 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder_
+#### _§ 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder_ <a href="#id-13-besondere-obliegenheiten-einzelner-vorstandsmitglieder" id="id-13-besondere-obliegenheiten-einzelner-vorstandsmitglieder"></a>
 
 (1) Der Vorstand führt die laufenden Geschäfte des Vereins.
 
@@ -187,7 +183,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (4) Der Vorstand ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 
-### _§ 14: Rechnungsprüfer_
+#### _§ 14: Rechnungsprüfer_ <a href="#id-14-rechnungsprufer" id="id-14-rechnungsprufer"></a>
 
 (1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von vier Jahren gewählt. Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
 
@@ -195,7 +191,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (3) Rechtsgeschäfte zwischen Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
 
-### _§ 15: Schiedsgericht_
+#### _§ 15: Schiedsgericht_ <a href="#id-15-schiedsgericht" id="id-15-schiedsgericht"></a>
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine „Schlichtungseinrichtung“ im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
 
@@ -203,13 +199,13 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (3) Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
-### _§ 16: Vereinsordnung_
+#### _§ 16: Vereinsordnung_ <a href="#id-16-vereinsordnung" id="id-16-vereinsordnung"></a>
 
 (1) Die Vereinsordnung regelt das Vereinslebens im Detail. Sie ergänzt die Statuten, darf den Statuten jedoch nicht widersprechen. Sie ist bindend für Organe, Mitglieder, bei Vereinsveranstaltungen und in Einrichtungen des Vereins.
 
 (2) Die Generalversammlung kann die Änderung der Vereinsordnung beschließen. Die Vereinsordnung kann zusätzlich selbst einen Modus definieren, nachdem Änderungen der Vereinsordnung beschlossen werden können.
 
-### _§ 17: Freiwillige Auflösung des Vereins_
+#### _§ 17: Freiwillige Auflösung des Vereins_ <a href="#id-17-freiwillige-auflosung-des-vereins" id="id-17-freiwillige-auflosung-des-vereins"></a>
 
 (1) Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
 
